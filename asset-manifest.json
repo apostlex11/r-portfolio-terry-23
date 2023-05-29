@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apostlex11/r-portfolio-terry-23/static/css/main.400ae49e.css",
+    "main.js": "/apostlex11/r-portfolio-terry-23/static/js/main.f7661571.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/apostlex11/r-portfolio-terry-23/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sunny-beer-finder-demo.gif": "/apostlex11/r-portfolio-terry-23/static/media/sunny-beer-finder-demo.4fd97162d6b7b4748ba6.gif",
+    "static/media/regex.JPG": "/apostlex11/r-portfolio-terry-23/static/media/regex.5c68714dca7542a1b35e.JPG",
+    "static/media/portfolio.JPG": "/apostlex11/r-portfolio-terry-23/static/media/portfolio.e347a672a7dc4ed2164b.JPG",
+    "static/media/quiz.JPG": "/apostlex11/r-portfolio-terry-23/static/media/quiz.363a302a3d1587f58046.JPG",
+    "static/media/text-edit.JPG": "/apostlex11/r-portfolio-terry-23/static/media/text-edit.3886b2135338d7a23460.JPG",
+    "static/media/resume.pdf": "/apostlex11/r-portfolio-terry-23/static/media/resume.fa265a0f6816e4cbc4dd.pdf",
+    "static/media/note.png": "/apostlex11/r-portfolio-terry-23/static/media/note.d1f4035fedd90601ce45.png",
+    "index.html": "/apostlex11/r-portfolio-terry-23/index.html",
+    "main.400ae49e.css.map": "/apostlex11/r-portfolio-terry-23/static/css/main.400ae49e.css.map",
+    "main.f7661571.js.map": "/apostlex11/r-portfolio-terry-23/static/js/main.f7661571.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/apostlex11/r-portfolio-terry-23/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400ae49e.css",
+    "static/js/main.f7661571.js"
+  ]
+}
